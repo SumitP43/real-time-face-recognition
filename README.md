@@ -1,4 +1,4 @@
-# real-time-face-recognition - Student Project (LBPH + OpenCV)
+# real-time-face-recognition 
 
 This starter kit contains everything your students need to build a simple, offline face recognition system using OpenCV's LBPH algorithm. It works on most laptops with a webcam and **does not require a GPU**.
 
