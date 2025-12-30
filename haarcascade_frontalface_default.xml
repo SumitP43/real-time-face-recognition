@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- Placeholder note:
+To keep this starter kit light, we reference OpenCV's default haarcascade file name.
+If this placeholder fails, install OpenCV and copy:
+cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
+or update the scripts to use cv2.data.haarcascades path directly.
+-->
